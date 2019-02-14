@@ -19,3 +19,8 @@ https://opencorporates.com/companies/mx
 
 
 Faltan empresas sancionadas
+
+
+Ejemplo
+JJ ACCOUNTING & LEGAL MATTERS
+Empresa fantasma del DF con contrato de alto valor 406 millones en adjudicación directa
