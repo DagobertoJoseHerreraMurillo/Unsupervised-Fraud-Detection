@@ -24,3 +24,8 @@ Faltan empresas sancionadas
 Ejemplo
 JJ ACCOUNTING & LEGAL MATTERS
 Empresa fantasma del DF con contrato de alto valor 406 millones en adjudicación directa
+
+
+Herramienta utilizada en la tesis
+http://www.processmining.org/online/fuzzyminer
+
