@@ -1,7 +1,9 @@
 # Unsupervised-Fraud-Detection
 
+¿Cómo exporté el JSON?
 C:\Program Files\MongoDB\Server\4.0\bin>mongoimport -d CMX -c CMX --file C:\Users\Dagoberto\Desktop\CMX.json --jsonArray
 
+¿Cómo hago una consulta con mongo?
 {"records.releases.parties.name":{$regex:"ODEBRECH"}}
 
 Listado de empresas fantasmas
